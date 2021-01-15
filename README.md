@@ -1,5 +1,7 @@
 # ControlClientes
 
+Aplicación realizada en AngularJs en el marco del curso Universidad Angular de Udemy.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
